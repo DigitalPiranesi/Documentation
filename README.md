@@ -9,7 +9,7 @@ This repository contains contributory work and testing platforms for the [Digita
 
 # License
 
-This repository, and all of the intellectual property contained within are subject to the Apache 2.0 license which can be found in the file ```LICENCE.md```.
+This repository, and all of the intellectual property contained within are subject to the Apache 2.0 license which can be found in the file ```LICENCE```.
 
 # Contacts
 
