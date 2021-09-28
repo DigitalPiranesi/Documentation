@@ -14,7 +14,7 @@ in tandem. Below is a layout of the architecture and an explanation for each div
 
 In general, immediate sub-directories are related to individual utilities and libraries.
 
-* ```documentation``` - Contains general documentation
+* ```documentation``` - Contains general documentation [Link](./documentation)
 
 # Contacts
 
