@@ -26,10 +26,14 @@ The Digital Piranesi project uses Cantaloupe as the image-generation software fo
 
 [Scalar](https://scalar.me/anvc/scalar/) is an open-source project that allows for the authoring and publishing of digital scholarship. Scalar offers an easy-to-use platform written in CSS, HTML, Javascript, and, predominately, PHP. All HTTP(s) requests, responses, and data-exchange between the browser and client is conducted via Scalar with the exception of [Cantaloupe](#cantaloupe) images.
 
+All page and media hosted for the Digital Piranesi project is stored within the context of Scalar's resources. This includes the web-server's directories and files, as well as the MySQL database used to store pages and data about the installation.
+
+It is advised not to access the MySQL database directly, nor to edit any of the underlying Scalar software. Issues ought to be reported directly to the [Github Issues page](https://github.com/anvc/scalar/issues).
+
 ## <span id="mirador">Mirador</span>
 
 [Mirador](https://projectmirador.org/) is an open-source, multi-window image viewing software designed to implement the IIIF standards and API in a browser setting.
 
-As seen in step \#5 of the Mirador is written in Javascript and injects dynamic-HTML using the DOM to implement the viewer.
+As seen in step \#5 of the [general layout](#general_layout), Mirador handles the reception and processing of images and metadata using the provided Manifest. Mirador then compiles artifacts and injects dynamic HTML into the webpage using the DOM.
 
 In the case of our project, Mirador is bundled with Scalar and distributed/installed as a single package. However, Mirador is listed here for references in case of errors or documentation needs.
