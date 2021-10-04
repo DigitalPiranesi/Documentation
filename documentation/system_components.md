@@ -37,3 +37,9 @@ It is advised not to access the MySQL database directly, nor to edit any of the 
 As seen in step \#5 of the [general layout](#general_layout), Mirador handles the reception and processing of images and metadata using the provided Manifest. Mirador then compiles artifacts and injects dynamic HTML into the webpage using the DOM.
 
 In the case of our project, Mirador is bundled with Scalar and distributed/installed as a single package. However, Mirador is listed here for references in case of errors or documentation needs.
+
+## <span id="mysql">MySQL</span>
+
+[MySQL](https://www.mysql.com/) is a database software that is used alongside its PHP-plugin to serve data for Scalar and all of the content. MySQL is not responsible for the delivery of data, only for describing its structure and providing an interface to access and manipulate it.
+
+For all general purposes, there is no need to use the underlying MySQL software.  
