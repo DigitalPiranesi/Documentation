@@ -13,7 +13,7 @@ npm install
 
 ## Running
 
-#### 1. (Optional) Select Context
+### 1. (Optional) Select Context
 Each manifest generated follows a context of the IIIF specification. The
 generator defaults to the latest stable version of the specification, but other
 versions can be specified using the context flag (see below). This step is
@@ -21,6 +21,8 @@ optional.
 
 ## Command Line Options
 
-* ```-c, --context VERSION_NUMBER``` - Change the IIIF context for the manifest. ```VERSION_NUMBER``` must be installed in the ```contexts``` directory.
-* ```-h, --help``` - Display command line options, flags, and arguments.
-* ```-v, --version``` - Display version information
+| Flag                    | Description                                                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ```-c, --context```     | Change the IIIF context for the manifest. ```VERSION_NUMBER``` must be installed in the ```contexts``` directory. |
+| ```-h, --help```        | Display command line options, flags, and arguments.                                                               |
+| ```-v, --version```     | Display version information.                                                                                      |
