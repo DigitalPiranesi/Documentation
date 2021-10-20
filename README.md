@@ -18,4 +18,4 @@ In general, immediate sub-directories are related to individual utilities and li
 
 # Contacts
 
-Any bug-reports, errors, or comments can be made through the [Github Issues](https://github.com/waltster/DigitalPiranesi/issues) page for this repository
+Any bug-reports, errors, or comments can be made through the [Github Issues](https://github.com/DigitalPiranesiStorage/Documentation/issues) page for this repository.
