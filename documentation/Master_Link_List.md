@@ -5,3 +5,4 @@
 * <a href="https://github.com/DigitalPiranesiStorage/Manifest-Generator" target="_blank">Manifest Generator repository</a>
 * <a href="https://github.com/DigitalPiranesiStorage/Documentation" target="_blank">Documentation Repository</a>
 * <a href="https://www.dropbox.com/s/2uagajrqbobcgcf/Manifest%20Generator%20Design%20Document.docx?dl=0" target="_blank">Manifest generator design document</a> (Dropbox link, Read-Only)
+* <a href="https://iiif.harvardartmuseums.org/manifests/object/299843/list/43182083" target="_blank">Example annotation sub-file (JSON)</a>
