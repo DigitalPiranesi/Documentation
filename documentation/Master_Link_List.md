@@ -1,7 +1,7 @@
 # Master List of Links
 
-* [Project Design Document](https://docs.google.com/document/d/1-YWYlPVUEKahlAF_K3v4fTCanFHRrazHRrGPFFk2wII) (Google Docs link, Read-Only)
-* [System Components](./system_components.md)
-* [Manifest Generator Repository](https://github.com/DigitalPiranesiStorage/Manifest-Generator)
-* [Documentation Repository](https://github.com/DigitalPiranesiStorage/Documentation)
-* [Manifest Generator Design Document](https://www.dropbox.com/s/2uagajrqbobcgcf/Manifest%20Generator%20Design%20Document.docx?dl=0) (Dropbox link, Read-Only)
+* <a href="https://docs.google.com/document/d/1-YWYlPVUEKahlAF_K3v4fTCanFHRrazHRrGPFFk2wII" target="_blank">Project design document</a> (Google Docs link, Read-Only)
+* <a href="./system_components.md" target="_blank">System components documentation</a>
+* <a href="https://github.com/DigitalPiranesiStorage/Manifest-Generator" target="_blank">Manifest Generator repository</a>
+* <a href="https://github.com/DigitalPiranesiStorage/Documentation" target="_blank">Documentation Repository</a>
+* <a href="https://www.dropbox.com/s/2uagajrqbobcgcf/Manifest%20Generator%20Design%20Document.docx?dl=0" target="_blank">Manifest generator design document</a> (Dropbox link, Read-Only)
